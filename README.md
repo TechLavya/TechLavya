@@ -1,6 +1,6 @@
 # Techlavya
 
-Techlavya is the official **Tech Fest website** of **Ramkrishna Mahato Government Engineering College**. This platform showcases the latest events, competitions, and workshops organized as part of the fest.
+Techlavya is the official **Tech Fest** of **Ramkrishna Mahato Government Engineering College**. This platform showcases the latest events, competitions, and workshops organized as part of the fest.
 
 ## 🚀 Visit Our Website
 
