@@ -1,6 +1,4 @@
-# Techlavya
-
-Techlavya is the official **Tech Fest** of **Ramkrishna Mahato Government Engineering College**. This platform showcases the latest events, competitions, and workshops organized as part of the fest.
+**Techlavya** is the official **Tech Fest** of **Ramkrishna Mahato Government Engineering College**. This platform showcases the latest events, competitions, and workshops organized as part of the fest.
 
 ## 🚀 Visit Our Website
 
@@ -8,8 +6,8 @@ Techlavya is the official **Tech Fest** of **Ramkrishna Mahato Government Engine
 
 ## 🎨 Preview
 
-![Techlavya](https://res.cloudinary.com/doyngc4te/image/upload/v1741849211/landing-page-techlavya_getetd.png)
-![Screenshot 2025-03-18 145657](https://github.com/user-attachments/assets/5aed48fa-34ea-4488-ab61-7a383adfcbcc)
-![image](https://github.com/user-attachments/assets/dd164f3a-1b16-4434-9228-b55ae59a02f7)
-![image](https://github.com/user-attachments/assets/39f7e535-938d-46b2-b120-220022a8232b)
-
+![image](https://github.com/user-attachments/assets/1b3dc7fd-a227-4060-a3ed-38d2be5d3728)
+![image](https://github.com/user-attachments/assets/d594fa32-8fce-4708-b88e-9066e8d505dc)
+![image](https://github.com/user-attachments/assets/fddcb7a5-5e39-4404-88f9-295b814e3f37)
+![image](https://github.com/user-attachments/assets/1fad0257-dcf5-4136-9811-66eefcf9bfac)
+![image](https://github.com/user-attachments/assets/2cf63df2-107e-482f-8bd6-ec7f9ad3abd8)
